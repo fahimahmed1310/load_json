@@ -1,0 +1,34 @@
+[
+  {
+     "name" : "Fahim Ahmed",
+     "age"  : "23",
+     "hair-color" : "black",
+     "occupation" : "student",
+     "gender" : "male"
+  },
+
+  {
+     "name" : "Mushfika Aanchol",
+     "age"  : "21",
+     "hair-color" : "black",
+     "occupation" : "student",
+     "gender" : "female"
+  },
+
+
+  {
+     "name" : "Sami Abdullah",
+     "age"  : "17",
+     "hair-color" : "black",
+     "occupation" : "student",
+     "gender" : "male"
+  },
+
+  {
+     "name" : "Sarrinah Binte Reza",
+     "age"  : "17",
+     "hair-color" : "black",
+     "occupation" : "student",
+     "gender" : "female"
+  }
+]
